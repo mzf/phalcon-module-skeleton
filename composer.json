@@ -1,7 +1,7 @@
 {
-    "name": "ovr/phalcon-module-skeleton",
+    "name": "web777/phalcon-module-skeleton",
     "description": "Example for easy start with Phalcon + Phalcony sublib.",
-    "url": "https://github.com/ovr/phalcon-module-skeleton",
+    "url": "https://github.com/web777/phalcon-module-skeleton",
     "license": "MIT",
     "type": "project",
     "keywords": [
@@ -11,6 +11,12 @@
         "rest",
         "api",
         "oauth"
+    ],
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/web777/phalcon-module-skeleton"
+        }        
     ],
     "require": {
         "php": ">=5.4",
